@@ -4,5 +4,5 @@ React Hooks/Apollo/GraphQL/Node.js full stack application for watching SpaceX fl
 
 ## How to run stack locally:
 
-`npm run server`
-`npm start for client`
+`npm install npm run server`
+`npm install npm start for react client`
